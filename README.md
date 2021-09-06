@@ -1,7 +1,7 @@
 - 👋 Hi, This is *Lei*.
 - 🌱 I’m currently learning Data Science
 - 👀 I love basketball and Chirs Paul is my favorite player
-- 📫 Contact me: lei_cao2@outlook.com/
+- 📫 Contact me: lei_cao2@outlook.com
 
 <!---
 - 💞️ I’m working on finding a SDE job, the latest goal is a 2022 summer internship
