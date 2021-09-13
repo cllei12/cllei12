@@ -1,4 +1,4 @@
-- 👋 Hi, This is *Lei*.
+- 👋 Hi, This is *Lei Cao*.
 - 🌱 I’m currently learning Data Science
 - 👀 I love basketball and Chirs Paul is my favorite player
 - 📫 Contact me: lei_cao2@outlook.com
