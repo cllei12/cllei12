@@ -1,7 +1,8 @@
 - 👋 Hi, This is *Lei Cao*.
-- 🌱 I’m currently learning Data Science
-- 👀 I love basketball and Chirs Paul is my favorite player
-- 📫 Contact me: lei_cao2@outlook.com
+- 🌱 A current graduate student in Applied Data Science
+- ✌️ A trojan, fight on!
+- 👀 I love 🏀 and Chirs Paul is my favorite player
+- 📫 Contact me: lei_cao2@outlook.com / caolei@usc.edu
 
 <!---
 - 💞️ I’m working on finding a SDE job, the latest goal is a 2022 summer internship
