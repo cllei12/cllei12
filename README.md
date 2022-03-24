@@ -1,5 +1,5 @@
 - 👋 Hi, This is *Lei Cao*.
-- ✌️ Trojans, fight on!
+- ✌️ Trojan, fight on!
 - 🌱 Current graduate student in Applied Data Science
 - 👀 I love 🏀 and Chirs Paul is my favorite player
 - 📫 Contact me: caolei@usc.edu / lei_cao2@outlook.com 
