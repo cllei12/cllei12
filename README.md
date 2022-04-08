@@ -1,7 +1,7 @@
-- 👋 Hi, This is *Lei Cao*.
-- ✌️ Trojan, fight on!
-- 🌱 Current graduate student in Applied Data Science
-- 👀 I love 🏀 and Chirs Paul is my favorite player
+# 👋 This is *Lei*
+
+- 🌱 Current graduate student of USC Viterbi. ✌️ Trojans, fight on!
+- 👀 Love 🏀. My favorite player is *Chirs Paul*. 
 - 📫 Contact me: caolei@usc.edu / lei_cao2@outlook.com 
 
 <!---
@@ -9,3 +9,5 @@
 cllei12/cllei12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
