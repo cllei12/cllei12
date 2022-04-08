@@ -1,4 +1,4 @@
-# 👋 This is *Lei*
+### 👋 This is *Lei*
 
 - 🌱 Current graduate student of USC Viterbi. ✌️ Trojans, fight on!
 - 👀 Love 🏀. My favorite player is *Chirs Paul*. 
