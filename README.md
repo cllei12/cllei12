@@ -1,10 +1,8 @@
 ### 👋 This is *Lei*
 
-🌱 Current graduate student of USC Viterbi. ✌️ Trojans, fight on!
-
-👀 Love 🏀. My favorite player is *Chirs Paul*. 
-
-📫 Contact me: caolei@usc.edu / lei_cao2@outlook.com 
+🌱 Current graduate student of USC Viterbi. ✌️ Trojans, fight on!</br>
+👀 Love 🏀. My favorite player is *Chirs Paul*. </br>
+📫 Contact me: caolei@usc.edu / leicao.usc@outlook.com </br>
 
 <!---
 - 💞️ I’m working on finding a SDE job, the latest goal is a 2022 summer internship
