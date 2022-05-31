@@ -1,4 +1,4 @@
-👋 **This is *Lei***
+👋 **This is *Lei*** (rhymes with "lay")
 
 - Current graduate student of USC Viterbi. 
 - Contact me: leicao.usc@outlook.com </br>
