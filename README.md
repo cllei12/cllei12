@@ -1,7 +1,7 @@
 👋 **This is *Lei*** (rhymes with "lay")
 
 - Current graduate student of USC Viterbi. 
-- Contact me: leicao.usc@gmail.com / caolei@usc.edu </br>
+- Contact me: leicao312@gmail.com / caolei@usc.edu </br>
 - Love hoops and life.
 - Fight on! ✌️ 
 
