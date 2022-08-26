@@ -2,7 +2,7 @@
 
 - Current graduate student of USC Viterbi. 
 - Contact me: leicao.usc@gmail.com / caolei@usc.edu </br>
-- Love hoops and life.
+- Love bball 🏀
 - Fight on! ✌️ 
 
 <!---
