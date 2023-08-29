@@ -3,7 +3,8 @@
 - ✌️ M.S. in DS at USC Viterbi, Fight on!  
 - 📧 leicao.usc@gmail.com / caolei@usc.edu </br>
 - 🌱 Applying for Ph.D. for Fall 2024
-- 🏀 Love bball! 
+- 🏀 Love bball!
+- ☘️ Don't Worry, Be Happy!
 
 
 <!---
