@@ -1,4 +1,4 @@
-👋 **This is *Lei*** (rhymes with "lay")
+👋 **This is *Lei*** (sounds like "lay")
 
 - ✌️ M.S. in DS at USC Viterbi, Fight on!  
 - 📧 leicao.usc@gmail.com / caolei@usc.edu </br>
