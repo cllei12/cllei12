@@ -1,6 +1,6 @@
 👋 **This is *Lei*** (sounds like "lay")
 
-- ✌️ M.S. in DS at USC Viterbi, Fight on!  
+- ✌️ M.S. in DS @[USC Viterbi](https://viterbischool.usc.edu/), Fight on!  
 - 📧 leicao.usc@gmail.com / caolei@usc.edu </br>
 - 🌱 Ph.D. applicant for Fall 2024
 - 🏀 Love bball!
