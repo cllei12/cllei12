@@ -1,7 +1,7 @@
 👋 **This is *Lei*** (sounds like "lay")
 
-- ✌️ M.S. in Data Science @[USC Viterbi](https://viterbischool.usc.edu/), Fight on!
-- 🌱 ~~Ph.D. applicant for Fall 2024~~ Incoming Ph.D. student [@USC Annenberg](https://annenberg.usc.edu) 
+- ✌️ M.S. in Data Science at [USC Viterbi](https://viterbischool.usc.edu/), Fight on!
+- 🌱 ~~Ph.D. applicant for Fall 2024~~ Incoming Ph.D. student at [USC Annenberg](https://annenberg.usc.edu) 
 - 📧 leicao.usc@gmail.com / caolei@usc.edu </br>
 - 🏀 Love bball!
 - ☘️ Don't Worry, Be Happy!
